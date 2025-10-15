@@ -102,4 +102,8 @@ Uses OpenFoodFacts API:
 
 ---
 
+## ⏱️ Development Time
+
+This project was completed in **1 day** as part of an assignment.
+
 **Built with ❤️ by Amruthesh**
